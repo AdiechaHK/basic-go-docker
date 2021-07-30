@@ -18,3 +18,7 @@ and then as you want to run the code you can run the following command
 ```bash
 docker run --rm -it --volume $(pwd):/app --name project-container my-go-proj
 ```
+
+## Pre-requisite
+
+- `docker` must be installed.
